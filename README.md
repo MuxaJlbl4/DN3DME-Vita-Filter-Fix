@@ -13,11 +13,13 @@ Left side - original; Right - disabled filter.
 
 # Usage
 1. You need hacked PS Vita with installed [rePatch-reDux0 plugin](https://github.com/dots-tb/rePatch-reDux0)
-2. [Download fix](https://github.com/MuxaJlbl4/DN3DME-Vita-Filter-Fix/releases) and unpack repatch folder to root
-3. **Let's Rock**
+2. *Optional* Backup your gamesave data with [vita-savemgr](https://github.com/d3m3vilurr/vita-savemgr)
+3. [Download fix](https://github.com/MuxaJlbl4/DN3DME-Vita-Filter-Fix/releases) and unpack repatch folder to root
+4. **Let's Rock**
 
 # Notes
-Fix created for NoNpDRM Eu/Us game versions. For Vitamin/Mai dump versions use [rinCheat](https://github.com/Rinnegatamante/rinCheat/blob/master/cheats_db/PCSB00437.txt).
+Fix created for NoNpDRM EU/US game versions. For Vitamin/Mai dump versions use [rinCheat](https://github.com/Rinnegatamante/rinCheat/blob/master/cheats_db/PCSB00437.txt).  
+Also you can use [Vita Nearest Neighbour plugin](https://github.com/MuxaJlbl4/Vita-Nearest-Neighbour) to enable point filtering in any PS Vita game.
 
 # Used tools
 - [CelesteBlue-dev/PSVita-RE-tools](https://github.com/CelesteBlue-dev/PSVita-RE-tools)  
