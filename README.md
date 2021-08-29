@@ -19,10 +19,10 @@ Left side - original; Right - disabled filter.
 
 # Notes
 Fix created for NoNpDRM EU/US game versions. For Vitamin/Mai dump versions use [rinCheat](https://github.com/Rinnegatamante/rinCheat/blob/master/cheats_db/PCSB00437.txt).  
-Also you can use [Vita Nearest Neighbour plugin](https://github.com/MuxaJlbl4/Vita-Nearest-Neighbour) to enable point filtering in any PS Vita game.
+Also you can use [Vita Nearest Neighbour](https://github.com/MuxaJlbl4/Vita-Nearest-Neighbour) and [Vita Bilinear](https://github.com/swosho/Vita-Bilinear) plugins to adjust texture filtering in any PS Vita game.
 
 # Used tools
 - [CelesteBlue-dev/PSVita-RE-tools](https://github.com/CelesteBlue-dev/PSVita-RE-tools)  
 - [Rinnegatamante/rinCheat](https://github.com/Rinnegatamante/rinCheat)  
 - [r0ah/vitacheat](https://github.com/r0ah/vitacheat)  
-**Damn, That Reposes Looking Good**
+**Damn, That Repos Good**
